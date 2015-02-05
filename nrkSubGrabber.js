@@ -1,6 +1,7 @@
+//
 !function() {//self-invoking func för att inte poluta
 	if (typeof jQuery == 'undefined') {//jQuery behövs. är den inte redan loadad...
-		getScript('http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js', function() {//...så ladda den.
+		getScript('https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js', function() {//...så ladda den.
 			getSubtitleData();
 		});
 		function getScript(url, success) {
@@ -26,7 +27,7 @@
 		getSubtitleData();
 	}
 	function getSubtitleData() {
-		var programId=$("meta[name='programid']")[0];
+		var programId=$("meta[name='programid']");
 		if (!programId) {
 			return alert ("programId ikke funnet.");
 		}
