@@ -35,8 +35,7 @@
 			}
 			return;
 		}
-		var programId=$("meta[name='programid']").content;
-		$.get("http://tv.nrk.no/programsubtitles/"+programId,processSubtitleData);
+		$.get("http://tv.nrk.no/programsubtitles/"+programId.content,processSubtitleData);
 	}
 	function processSubtitleData(data) {
 		var output="";
