@@ -1,33 +1,27 @@
-//
+//Oscar Jonsson
+//https://sv.gravatar.com/oggan
+
 !function() {//self-invoking func för att inte poluta
 	if (typeof jQuery == 'undefined') {//jQuery behövs. är den inte redan loadad...
-		getScript('https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js', function() {//...så ladda den.
-			getSubtitleData();
-		});
+		getScript('https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js', getSubtitleData);
 		function getScript(url, success) {
 			var script     = document.createElement('script');
-				 script.src = url;
-			
+			script.src = url;
 			var head = document.getElementsByTagName('head')[0],
 			done = false;	
 			// Attach handlers for all browsers
 			script.onload = script.onreadystatechange = function() {
-				if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
-				done = true;
 					// callback function provided as param
-					success();
 					script.onload = script.onreadystatechange = null;
 					head.removeChild(script);
-					
-				};
+					success();
 			};
 			head.appendChild(script);
 		};
-	} else { // jQuery was already loaded
+	} else // jQuery was already loaded
 		getSubtitleData();
-	}
 	function getSubtitleData() {
-		var programId=$("meta[name='programid']");
+		var programId=jQuery("meta[name='programid']")[0];
 		if (!programId) {
 			return alert ("programId ikke funnet.");
 		}
@@ -41,7 +35,7 @@
 			}
 			return;
 		}
-		var programId=$("meta[name='programid']")[0].content;
+		var programId=$("meta[name='programid']").content;
 		$.get("http://tv.nrk.no/programsubtitles/"+programId,processSubtitleData);
 	}
 	function processSubtitleData(data) {
