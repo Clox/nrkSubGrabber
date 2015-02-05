@@ -39,7 +39,11 @@
 	}
 	function processSubtitleData(data) {
 		var output="";
-		captions=$(data).find("div")[0].children;
+		captions=$(data).find("div")[0];
+		if (!captions)
+			return alert ("Hittade inga undertexter");
+		captions=captions.children;
+		
 		for (var i=0; i<captions.length; i++) {
 			var caption=captions[i];
 			var startTime=caption.getAttribute("begin");
