@@ -3,16 +3,12 @@ get the following...
 http://tv.nrk.no/programsubtitles/MSUI36000210
 
 */
-
-// Only do anything if jQuery isn't defined
-!function() {
-	if (typeof jQuery == 'undefined') {
-		if (typeof $ == 'function') {
-			// warning, global var
-			thisPageUsingOtherJSLibrary = true;
-		}
+!function() {//self-invoking func för att inte poluta
+	if (typeof jQuery == 'undefined') {//jQuery behövs. är den inte redan loadad...
+		getScript('http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js', function() {//...så ladda den.
+			getSubtitleData();
+		});
 		function getScript(url, success) {
-		
 			var script     = document.createElement('script');
 				 script.src = url;
 			
@@ -29,17 +25,26 @@ http://tv.nrk.no/programsubtitles/MSUI36000210
 					
 				};
 			};
-			
 			head.appendChild(script);
-		
 		};
-		getScript('http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js', function() {
-			getSubtitleData();
-		});
 	} else { // jQuery was already loaded
 		getSubtitleData();
 	}
 	function getSubtitleData() {
+		var programId=$("meta[name='programid']")[0];
+		if (!programId) {
+			return alert ("programId ikke funnet.");
+		}
+		
+		//man kan browsa nrk's series etc på både http://tv.nrk.no och på bl.a. http://tv.nrksuper.no/ etc. Men undertexterna finns bara på det förstnämnda
+		//och CORS är inte inställt på servern för http://tv.nrk.no så att det går att göra en cross-domain request från de andra sidorna.
+		//Därför kollar vi först om vi är på rätt address och erbjuder annars att gå till rätt
+		if (location.hostname!="tv.nrk.no") {
+			if (confirm("Du er ikke på tv.nrk.no men på "+location.hostname+". Trykk OK för å ta deg till dette program på tv.nrk.no oh kjör sen denne bookmarklet igen")) {
+				window.location.href=document.URL.replace(location.hostname,"tv.nrk.no");
+			}
+			return;
+		}
 		var programId=$("meta[name='programid']")[0].content;
 		$.get("http://tv.nrk.no/programsubtitles/"+programId,processSubtitleData);
 	}
