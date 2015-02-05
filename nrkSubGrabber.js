@@ -1,8 +1,3 @@
-/*
-get the following...
-http://tv.nrk.no/programsubtitles/MSUI36000210
-
-*/
 !function() {//self-invoking func för att inte poluta
 	if (typeof jQuery == 'undefined') {//jQuery behövs. är den inte redan loadad...
 		getScript('http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js', function() {//...så ladda den.
