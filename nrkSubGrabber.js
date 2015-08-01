@@ -1,4 +1,4 @@
-//Oscar Jonsson
+﻿//Oscar Jonsson
 //https://sv.gravatar.com/oggan
 
 !function() {//self-invoking func för att inte poluta
@@ -35,7 +35,7 @@
 			}
 			return;
 		}
-		$.get("http://tv.nrk.no/programsubtitles/"+programId.content,processSubtitleData);
+		$.get(window.location.protocol+"//tv.nrk.no/programsubtitles/"+programId.content,processSubtitleData);
 	}
 	function processSubtitleData(data) {
 		var output="";
