@@ -35,7 +35,7 @@
 			}
 			return;
 		}
-		$.get(window.location.protocol+"//tv.nrk.no/programsubtitles/"+programId.content,processSubtitleData);
+		$.get(window.location.protocol+"//tv.nrk.no/programsubtitles/"+programId.content+"AA",processSubtitleData);
 	}
 	function processSubtitleData(data) {
 		var output="";
