@@ -1,0 +1,443 @@
+WEBVTT
+
+00:00:00.040 --> 00:00:01.520
+<c.green>♫ Sätt fart!</c>
+
+00:00:01.680 --> 00:00:05.360
+<c.green>♫ Vi kör i gång, nu är det dags</c>
+
+00:00:05.520 --> 00:00:09.280
+<c.green>♫ Gnag upp ett hål,</c>
+<c.green>♫ för bakom stängslet finns det kål</c>
+
+00:00:09.440 --> 00:00:13.000
+<c.green>♫ Vi dyker upp, vi dyker ner</c>
+
+00:00:13.160 --> 00:00:16.760
+<c.green>♫ vi tar en bit av varje rädisa vi ser</c>
+
+00:00:16.920 --> 00:00:20.600
+<c.green>♫ Vi susar fram, nu ger vi allt</c>
+
+00:00:20.760 --> 00:00:24.400
+<c.green>♫ När man är fri</c>
+<c.green>♫ så kan man göra det man vill</c>
+
+00:00:24.560 --> 00:00:28.280
+<c.green>♫ och en kanin</c>
+<c.green>♫ kan liksom inte sitta still</c>
+
+00:00:28.440 --> 00:00:31.200
+<c.green>♫ Häng med på äventyr med oss,</c>
+<c.green>♫ kom loss!</c>
+
+00:00:31.360 --> 00:00:35.000
+<c.green>♫ Pelle Kanin, Pelle Kanin</c>
+
+00:00:35.160 --> 00:00:38.000
+<c.green>♫ Pelle Kanin, sätt fart!</c>
+
+00:00:40.440 --> 00:00:44.040 align:middle
+JAKTEN PÅ FÖDELSEDAGSTÅRTAN
+
+00:00:47.920 --> 00:00:51.800
+Akta, Pelle!
+
+00:00:53.720 --> 00:00:57.160
+<b><c.cyan>Se upp, Lilly!</c></b>
+
+00:00:57.320 --> 00:01:04.000
+-Där satt den! Jag vann.
+-Om det var "sätt svansen på stenen"!
+
+00:01:04.160 --> 00:01:06.560
+Hoppsan!
+
+00:01:09.760 --> 00:01:12.880
+Födelsedagsbarnets klänning
+är smutsig!
+
+00:01:13.040 --> 00:01:17.320
+Kan ni inga lugnare lekar?
+
+00:01:17.480 --> 00:01:20.920
+-Tunnelkull?
+-Rulla ner för backen?
+
+00:01:21.080 --> 00:01:24.560
+-Förlåt att vi frågade!
+-Vänta...!
+
+00:01:25.720 --> 00:01:30.280
+-Känner ni samma doft som jag?
+-Tårta!
+
+00:01:30.440 --> 00:01:33.680
+-Har den äran, Ulltott!
+-Tårta!
+
+00:01:33.840 --> 00:01:38.920
+-Det är inte dags att äta tårtan än.
+-Åh...
+
+00:01:39.080 --> 00:01:42.320
+Men det finns en sak ni kan göra nu:
+
+00:01:42.480 --> 00:01:46.920
+Slicka av...skeden. Era rackare!
+
+00:01:49.200 --> 00:01:52.920
+Lilly, ger du mjölet till din mamma?
+
+00:01:53.080 --> 00:01:56.400 align:end
+<b><c.magenta>BRAKANDE</c></b>
+
+00:01:56.560 --> 00:02:02.040
+<b><c.cyan>-Kasper?</c></b>
+-Vilken fest! Jag tog med nötter.
+
+00:02:02.200 --> 00:02:06.120
+-Vänta bara tills du ser...
+-Tårtan!
+
+00:02:06.280 --> 00:02:09.640
+-Den är borta!
+-Va? Nej!
+
+00:02:10.040 --> 00:02:14.600
+<b><c.cyan>-Nån tog den.</c></b>
+-Då kan vi inte ha fest!
+
+00:02:14.760 --> 00:02:21.280
+<b><c.cyan>Jag ska hitta Ulltotts tårta</c></b>
+<b><c.cyan>innan festen är slut. Kom igen!</c></b>
+
+00:02:21.440 --> 00:02:26.000
+-Vänta på oss!
+-Pelle springa hej då?
+
+00:02:26.160 --> 00:02:32.800
+-Snart är han här igen. - Eller hur?
+<b><c.cyan>-Ja, det är klart!</c></b>
+
+00:02:36.240 --> 00:02:42.760
+-Det måste ha varit en skum typ.
+-Som verkligen gillar tårta.
+
+00:02:42.920 --> 00:02:45.880
+<b><c.cyan>Vem tycker ni att det låter som?</c></b>
+
+00:02:48.480 --> 00:02:53.560
+-Mårten Morrhår!
+-Bara en råtta skulle ta tårtan!
+
+00:02:53.720 --> 00:02:57.520
+Jag älskar mumsiga sötsaker!
+
+00:02:57.680 --> 00:03:02.240
+<b><c.cyan>-Låt bli den där!</c></b>
+-Vad i hela skogen?!
+
+00:03:02.400 --> 00:03:06.040
+Titta vad du gjorde med min lunch!
+
+00:03:06.200 --> 00:03:10.280
+<b><c.cyan>-Hoppsan!</c></b>
+-Det tog timmar att stjä...
+
+00:03:10.440 --> 00:03:14.680
+Jag menar, att baka den där!
+
+00:03:14.840 --> 00:03:18.640
+<b><c.cyan>Vi trodde</c></b>
+<b><c.cyan>att det var Ulltotts tårta.</c></b>
+
+00:03:18.800 --> 00:03:24.120
+-Det var faktiskt ett misstag.
+-Och ett stort sådant!
+
+00:03:29.000 --> 00:03:31.000
+<b><c.cyan>In här!</c></b>
+
+00:03:31.160 --> 00:03:34.120 align:end
+<b><c.magenta>TRALLANDE</c></b>
+
+00:03:34.280 --> 00:03:42.400
+<b><c.cyan>-Vart kan räven vara på väg?</c></b>
+-Och vad har han i knytet?
+
+00:03:42.560 --> 00:03:45.760
+<b><c.cyan>Det finns bara ett sätt att kolla!</c></b>
+
+00:03:47.800 --> 00:03:54.800
+<b><c.cyan>-När han jagar er tar jag tårtan.</c></b>
+-Precis! Vänta... Jagar oss?
+
+00:03:54.960 --> 00:04:00.560
+-Är det en bra idé?
+<b><c.cyan>-Nej, men vi måste hitta tårtan.</c></b>
+
+00:04:00.720 --> 00:04:04.160
+<b><c.cyan>Det blir ju ingen födelsedag annars!</c></b>
+
+00:04:06.800 --> 00:04:10.560
+Kaniner är modiga.
+
+00:04:14.080 --> 00:04:21.040
+-Kaniner är modiga...
+-Två små kaniner? Vill ni stiga på?
+
+00:04:22.560 --> 00:04:30.640
+Jag skulle gärna ha er på middag...
+Jag menar, bjuda er på middag.
+
+00:04:30.800 --> 00:04:33.840
+Strunt samma. Kom hit!
+
+00:04:35.280 --> 00:04:40.720
+-Kom tillbaka!
+-Där är en av Pelles pappas tunnlar!
+
+00:04:45.720 --> 00:04:48.160
+Tjoho!
+
+00:04:49.080 --> 00:04:52.960
+De slank undan, de små liven.
+
+00:04:55.040 --> 00:05:00.840
+En kanin till? Inne i mitt kök?
+Så högst passande!
+
+00:05:01.000 --> 00:05:06.840
+-Ställ ner det där.
+<b><c.cyan>-Ge tillbaka min systers...</c></b>
+
+00:05:09.400 --> 00:05:15.240
+<b><c.cyan>...tekanna? Jag trodde</c></b>
+<b><c.cyan>att det var en stulen tårta!</c></b>
+
+00:05:15.400 --> 00:05:20.760
+<b><c.cyan>-Jag är hemskt ledsen...</c></b>
+-Du kommer att bli ledsen!
+
+00:05:23.000 --> 00:05:28.040
+-Spring, bara! Du kommer inte undan.
+-Pelle, ner här!
+
+00:05:30.200 --> 00:05:33.880
+Inte den här gången! Aj!
+
+00:05:35.120 --> 00:05:41.200
+-Vill du prova på lite stickning?
+-Var är Pelle?
+
+00:05:41.360 --> 00:05:46.720
+Han är snart tillbaka.
+Tills dess får vi hitta på nåt kul!
+
+00:05:46.880 --> 00:05:53.880
+Sagt och gjort, fru Kanin!
+Jag ska få din lilla sötnos på humör.
+
+00:05:58.880 --> 00:06:01.440
+Roligt!
+
+00:06:07.000 --> 00:06:09.040
+Bra!
+
+00:06:21.440 --> 00:06:27.520
+Det är hopplöst! Enda sättet att
+hitta tårtan är att snubbla över den.
+
+00:06:32.360 --> 00:06:35.640
+-Tyst! Han sover.
+-Maskar...
+
+00:06:36.280 --> 00:06:39.040
+Kolla där!
+
+00:06:39.200 --> 00:06:45.200
+<b><c.cyan>Det kanske var han som stal tårtan!</c></b>
+<b><c.cyan>Han brukar ju samla saker i säcken.</c></b>
+
+00:06:45.360 --> 00:06:49.840
+Det är farligt att väcka en grävling!
+
+00:06:50.000 --> 00:06:55.920
+<b><c.cyan>-Jag tar bara en snabb titt.</c></b>
+-Ta det försiktigt!
+
+00:06:58.760 --> 00:07:01.440
+Snyggt byte, Pelle!
+
+00:07:01.600 --> 00:07:04.640
+Väcker ni mig, era glin?
+
+00:07:08.080 --> 00:07:11.000
+Kom tillbaka!
+
+00:07:15.880 --> 00:07:19.600
+<b><c.cyan>Ingen tårta! Den är inte här.</c></b>
+
+00:07:22.760 --> 00:07:28.080
+<b><c.cyan>-Spring! - Förlåt!</c></b>
+-Vänta ni bara, så ska ni få!
+
+00:07:28.240 --> 00:07:34.200
+-Trädhuset, skynda er!
+-Vart tog ni vägen?
+
+00:07:37.640 --> 00:07:43.640
+Det var nära att han fick tag i oss!
+Och han också...och han.
+
+00:07:43.800 --> 00:07:49.280
+-Nästan alla är efter oss nu.
+<b><c.cyan>-Nej, inte riktigt alla.</c></b>
+
+00:07:51.760 --> 00:07:57.080
+<b><c.cyan>Jag kan inte se riktigt,</c></b>
+<b><c.cyan>men han hukar över nåt rött...</c></b>
+
+00:07:57.240 --> 00:08:01.160
+<b><c.cyan>...som jordgubbarna på tårtan!</c></b>
+
+00:08:01.320 --> 00:08:06.760
+Tror du att Gammelbrun tog den?
+Är du säker den här gången?
+
+00:08:06.920 --> 00:08:13.200
+<b><c.cyan>-Han tog den nog. Vi måste till...</c></b>
+-Säg det inte!
+
+00:08:13.360 --> 00:08:19.160
+<b><c.cyan>...Uggleön! En bra kanin</c></b>
+<b><c.cyan>ger aldrig upp. Nu hoppar vi i gång!</c></b>
+
+00:08:19.320 --> 00:08:26.280
+Syns Pelle till där ute? Om jag måste
+fortsätta länge till kanske jag...
+
+00:08:26.440 --> 00:08:30.000
+...tappar nåt.
+
+00:08:31.760 --> 00:08:37.360
+-Jag ser honom inte. Fortsätt!
+-Ja! Mera!
+
+00:08:44.360 --> 00:08:50.760
+<b><c.cyan>Längre åt vänster. Nu åt höger.</c></b>
+<b><c.cyan>- Var beredd att fånga tårtan!</c></b>
+
+00:08:53.920 --> 00:09:00.680
+-Aj! Det där kändes inte som tårta.
+-Fjädrars! Vem gjorde det där?
+
+00:09:00.840 --> 00:09:04.240
+Era usla små kaniner!
+
+00:09:07.000 --> 00:09:10.160
+Ro snabbare!
+
+00:09:10.320 --> 00:09:14.080
+-Hjälp! Kolla!
+-Kom hit!
+
+00:09:14.240 --> 00:09:18.600
+-De ser inte så glada ut.
+-Fjädrars!
+
+00:09:18.760 --> 00:09:24.840
+<b><c.cyan>Allt är mitt fel.</c></b>
+<b><c.cyan>Jag gjorde alla arga på oss. Förlåt!</c></b>
+
+00:09:25.000 --> 00:09:29.280
+Du försökte bara hitta
+Ulltotts tårta.
+
+00:09:29.440 --> 00:09:37.600
+<b><c.cyan>-Jag ska ta oss ur den här knipan!</c></b>
+-Hur? Vi kan inte bara försvinna.
+
+00:09:37.760 --> 00:09:43.520
+<b><c.cyan>Det kanske vi kan!</c></b>
+<b><c.cyan>Lilly, har du kvar mjölet?</c></b>
+
+00:09:43.680 --> 00:09:47.320
+Det ligger i min bra-att-ha-ficka.
+
+00:09:48.920 --> 00:09:52.120
+<b><c.cyan>De kan inte fånga nåt de inte ser!</c></b>
+
+00:09:54.080 --> 00:09:57.400
+Vad dimmigt det blev helt plötsligt!
+
+00:09:57.920 --> 00:10:01.480
+-Där!
+-Nu är ni fast!
+
+00:10:01.640 --> 00:10:06.640
+-Vart tog de vägen?
+-Flytta på er!
+
+00:10:08.040 --> 00:10:10.960 align:end
+<b><c.magenta>HOANDE</c></b>
+
+00:10:12.080 --> 00:10:14.800
+Nedrans kaniner!
+
+00:10:14.960 --> 00:10:18.360
+Vad håller du på med, din fjant?
+
+00:10:18.520 --> 00:10:25.800
+-Lät ni kaninerna komma undan?
+-Vi? Det var ju du som jagade dem!
+
+00:10:25.960 --> 00:10:33.200
+-Ni är klumpiga klantskallar!
+-Vi har åtminstone inte fastnat.
+
+00:10:33.360 --> 00:10:36.280
+Jag bara vässar mina klor!
+
+00:10:41.480 --> 00:10:46.640
+-Jaha, då sitter vi alla i samma båt.
+-Pelle Kanin!
+
+00:10:50.160 --> 00:10:57.480
+<b><c.cyan>-Vi hittar inte Ulltotts tårta.</c></b>
+-Det gör inget, gubben. Ni försökte.
+
+00:10:57.640 --> 00:11:04.480
+<b><c.cyan>Hur kunde tårtan bara försvinna?</c></b>
+<b><c.cyan>Den stod ju... Vänta lite!</c></b>
+
+00:11:06.600 --> 00:11:09.560
+Vad är det?
+
+00:11:09.720 --> 00:11:12.120
+Pelle!
+
+00:11:13.200 --> 00:11:20.040
+<b><c.cyan>Ulltott, det var du hela tiden!</c></b>
+<b><c.cyan>Du stal din egen tårta, din rackare!</c></b>
+
+00:11:23.520 --> 00:11:27.080
+Födelsedagstårta! Nam-nam.
+
+00:11:30.080 --> 00:11:33.080
+<i><c.yellow>Alla: </c></i>Har den äran, Ulltott!
+
+00:11:33.240 --> 00:11:37.240
+-Är nån sugen på tårta?
+<i><c.yellow>-Alla: </c></i>Ja!
+
+00:11:55.200 --> 00:11:59.200 align:middle
+Svensktextning: Karin Arnborg
+Broadcast Text International för SVT
+
+NOTES
+id=SUB-1221297-044A-PELLEKANIN
+originator-software=Swift - v6.043
+generator=Undertextarkivet - 1.18.3
+
